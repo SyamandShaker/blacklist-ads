@@ -1,3 +1,3 @@
 # blacklist-ads
 
-[anti-merde](../blacklist-ads/Hosts-trc.txt)
+[anti-merde](../master/blacklist-ads/Hosts-trc.txt)
