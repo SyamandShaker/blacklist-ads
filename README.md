@@ -1,3 +1,3 @@
 # blacklist-ads
 
-[anti-merde](Hosts-blc.txt)
+[anti-merde](https://raw.githubusercontent.com/SyamandShaker/blacklist-ads/Hosts-blc.txt)
