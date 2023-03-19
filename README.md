@@ -6,6 +6,6 @@
 
 - [anti-risk](https://raw.githubusercontent.com/SyamandShaker/blacklist-ads/main/Hosts-rsk.txt)
 
-- [anti-sex](https://raw.githubusercontent.com/SyamandShaker/blacklist-ads/main/Hosts-sex.txt)
+- [anti-sex](https://raw.githubusercontent.com/SyamandShaker/blacklist-ads/main/anti-sex.txt)
 
 - [anti-tracker](https://raw.githubusercontent.com/SyamandShaker/blacklist-ads/main/Hosts-trc.txt)
